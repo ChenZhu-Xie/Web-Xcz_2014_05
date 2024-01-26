@@ -1,9 +1,11 @@
 # Personal website of 16-year-old Chen-Zhu Xie
 
-#### Description
-Personal website of 16-year-old little Xie (computer course assignment; seems to have been done using DreamWeaver)
+### Description
+Personal website of 16-year-old little Xie
 
-#### Software Architecture
+(computer course assignment; seems to have been done using DreamWeaver)
+
+<!-- #### Software Architecture
 Software architecture description
 
 #### Installation
@@ -33,4 +35,4 @@ Software architecture description
 3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
 4.  The most valuable open source project [GVP](https://gitee.com/gvp)
 5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/) -->

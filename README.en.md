@@ -1,7 +1,7 @@
-# 16 岁小谢 的 个人网站
+# Personal website of 16-year-old Chen-Zhu Xie
 
 #### Description
-16 岁小谢 的 个人网站（似乎是用 DreamWeaver 做的）
+16 岁小谢 的 个人网站（微机课作业；似乎是用 DreamWeaver 做的）
 
 #### Software Architecture
 Software architecture description

@@ -1,0 +1,391 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="File-List" href="Stranded%20II.files/filelist.xml">
+
+<title>新建网页 1</title>
+<!--[if !mso]>
+<style>
+v\:*         { behavior: url(#default#VML) }
+o\:*         { behavior: url(#default#VML) }
+.shape       { behavior: url(#default#VML) }
+#wrapper{_zoom:1}.container_l{width:1222px}#container{word-break:break-all;word-wrap:break-word}.c-container{width:538px;font-size:13px;line-height:1.54;word-wrap:break-word;word-break:break-all}#content_left .result-op{margin-bottom:14px;border-collapse:collapse}.c-border{width:518px;padding:9px;border:1px solid #e3e3e3;border-bottom-color:#e0e0e0;border-right-color:#ececec;box-shadow:1px 2px 1px rgba(0,0,0,0.072);-webkit-box-shadow:1px 2px 1px rgba(0,0,0,0.072);-moz-box-shadow:1px 2px 1px rgba(0,0,0,0.072);-o-box-shadow:1px 2px 1px rgba(0,0,0,0.072);}.c-row{*zoom:1}.c-span24{width:535px}.c-span24{float:left;_display:inline;margin-right:17px;list-style:none}.c-span-last{margin-right:0}.c-border .c-span24{width:518px}.c-border .c-span24{margin-right:10px}.c-border .c-span-last{margin-right:0}</style>
+<![endif]--><!--[if gte mso 9]>
+<xml><o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]-->
+</head>
+
+<body background="新建文件夹/未命名.jpg">
+
+<table border="1" width="144" id="table1">
+	<tr>
+		<td width="32"><font color="#008000">BACK</font></td>
+		<td width="96"><a href="Dark%20Horizon.htm">Dark Horizon</a></td>
+	</tr>
+</table>
+
+<p align="center"><font size="7" color="#00FF00">Stranded II</font></p>
+<p align="left"><font color="#00FF00">D:\荒岛生存\Stranded 2\mods\Stranded 
+II\tutorial\12 - 记事本：</font></p>
+<p align="left"><font color="#00FF00">This is the ending of this guide.<br>
+If you have carefully read all signs, you have successfully treaded the path of 
+enlightenment and thereby gained all basic knowledge that you need to survive in 
+Stranded 2.<br>
+There is just one thing left to say:<br>
+<br>
+!4Good speed! Have Fun!</font></p>
+<p align="left">　</p>
+<p align="left"><font size="5" color="#00FF00">TRAINER ACTIVATED!</font></p>
+<p align="left">　</p>
+<p align="left"><font color="#00FF00">D:\荒岛生存\Stranded 2\mods\Stranded 
+II\tutorial\12 - units：</font></p>
+<p align="left"><font color="#00FF00">
+######################################################### Zeugs<br>
+<br>
+### Player<br>
+#ID 1 IS RESERVED FOR THE PLAYER UNIT!<br>
+id=1<br>
+name=Player<br>
+group=human<br>
+icon=gfx\strandedguy.bmp<br>
+model=gfx\strandedguy.b3d<br>
+colxr=8<br>
+colyr=17<br>
+speed=4<br>
+eyes=30(Meaning；the size)<br>
+store=100<br>
+health=10000（OH MY GOD）<br>
+damage=9999<br>
+attackrange=9999(Lord，this is crazy!)<br>
+maxweight=9999999999<br>
+healthchange=0<br>
+script=start<br>
+on:kill {<br>
+$rnd=random(1,3);<br>
+if ($rnd==1){ play &quot;human_die1.wav&quot;; }<br>
+if ($rnd==2){ play &quot;human_die2.wav&quot;; }<br>
+if ($rnd==3){ play &quot;human_die3.wav&quot;; }<br>
+if (currentid()!=1){<br>
+event &quot;iskill_hunt&quot;,&quot;global&quot;;<br>
+}<br>
+freevar $rnd;<br>
+}<br>
+<br>
+on:cease_healthpotion {<br>
+freestate &quot;unit&quot;,1,16;<br>
+msg &quot;The potion has&quot;,3;<br>
+msg &quot;lost its effects.&quot;,3;<br>
+play &quot;fxdrain.wav&quot;;<br>
+}<br>
+<br>
+on:cease_speedpotion {<br>
+freestate &quot;unit&quot;,1,9;<br>
+msg &quot;The potion has&quot;,3;<br>
+msg &quot;lost its effects.&quot;,3;<br>
+play &quot;fxdrain.wav&quot;;<br>
+}<br>
+<br>
+on:cease_immortalpotion {<br>
+freestate &quot;unit&quot;,1,17;<br>
+msg &quot;The potion has&quot;,3;<br>
+msg &quot;lost its effects.&quot;,3;<br>
+play &quot;fxdrain.wav&quot;;<br>
+}<br>
+on:release_excrement {<br>
+$id=create(&quot;item&quot;,72);<br>
+play &quot;fart.wav&quot;;<br>
+}<br>
+script=end</font></p>
+<p align="left">　</p>
+<p align="left">　</p>
+<p align="left"><font color="#00FF00">################################ Stranded 
+II Buildings<br>
+#1 Tent<br>
+#2 Shelter<br>
+#3 Fire<br>
+#4 Torch<br>
+#5 Fence<br>
+#6 Storage<br>
+#7 Well<br>
+#8 Treehouse<br>
+#9 Bownet<br>
+#10 Stance<br>
+#11 Kiwibreeding<br>
+#12 Trap<br>
+#13 Hut<br>
+#14 Herbal-garden<br>
+#15 Big Storage<br>
+#16 Garden<br>
+#17 Hammock<br>
+#18 Monkey School<br>
+#19 Palisade<br>
+#20 Gate<br>
+#21 Woodstorage<br>
+#22 Stonestorage<br>
+#23 Defense Tower<br>
+#100 Dugout<br>
+#101 Sailraft</font></p>
+<p align="left">　</p>
+<table border="1" width="100%" id="table2" bordercolorlight="#00FF00" bordercolordark="#00FF00">
+	<tr>
+		<td colspan="4">
+		<p align="center"><font color="#00FF00">#################<br>
+		##### Items #####<br>
+		#################</font></td>
+	</tr>
+	<tr>
+		<td><font color="#00FF00">#<br>
+		################# items_edible.inf<br>
+		#<br>
+		#9 Meat<br>
+		#10 Meat (fried)<br>
+		#11 small Meat<br>
+		#12 small Meat (fried)<br>
+		#14 Banana<br>
+		#16 Bloodleaf<br>
+		#17 Healherb<br>
+		#18 strong Healhearb<br>
+		#19 Goldherb<br>
+		#20 Bitterroot<br>
+		#27 Coconut<br>
+		#31 Fungus<br>
+		#32 big Fungus<br>
+		#33 brown Fungus<br>
+		#34 toxic Fungus<br>
+		#35 Dwarf Hat Fungus<br>
+		#36 Healthpotion<br>
+		#38 Water<br>
+		#39 Wine<br>
+		#42 Grain Pile <br>
+		#43 Flour<br>
+		#44 Bread<br>
+		#45 Grapes<br>
+		#46 Berries<br>
+		#47 Juice<br>
+		#66 Cookie<br>
+		#67 Cacaofruit<br>
+		#68 Cacao<br>
+		#70 Coffee Fruits<br>
+		#82 Paste<br>
+		#83 Hempleaf<br>
+		#89 Fish<br>
+		#90 Fish (fried)<br>
+		#91 Joint<br>
+		#98 Insectparts<br>
+		#99 Slime<br>
+		#109 seaweed<br>
+		#112 Speedpotion<br>
+		#113 Immortalpotion<br>
+		#114 Airpotion<br>
+		#115 Cacao Paste<br>
+		#116 Plums<br>
+		#119 Worm</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# items_material.inf<br>
+		#<br>
+		#2 small Crystal<br>
+		#3 Crystal<br>
+		#4 Goldnugget<br>
+		#7 Trunk<br>
+		#8 Bamboo<br>
+		#15 Leaf<br>
+		#21 Pebbles<br>
+		#23 Stone<br>
+		#24 Branch<br>
+		#25 bendable Branch<br>
+		#26 Liana<br>
+		#48 Wool<br>
+		#49 Cord<br>
+		#57 Feather<br>
+		#85 Iron<br>
+		#86 Ironbar<br>
+		#96 Skin<br>
+		#107 Bark</font><p>
+		<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1048" type="#_x0000_t75" style='width:204pt;
+ height:153pt'>
+ <v:imagedata src="Stranded%20II.files/image001.png" o:title="未命名S"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=272 height=204
+src="Stranded%20II.files/image002.jpg" v:shapes="_x0000_s1048"><![endif]></span></p>
+		<p><font color="#00FF00" size="4">
+		<span style="font-family: Times New Roman">I am training animols such as 
+		monkeys!</span></font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# items_tools.inf<br>
+		#<br>
+		#22 Firestone<br>
+		#30 Hammer<br>
+		#50 Fishing Rod<br>
+		#65 Watch<br>
+		#73 Map<br>
+		#84 Spade<br>
+		#87 Axe<br>
+		#88 Pickaxe<br>
+		#92 Key<br>
+		#93 Lockpick<br>
+		#104 Net<br>
+		#105 Scythe<br>
+		#111 Torch<br>
+		</font>
+		<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman"><!--[if gte vml 1]><v:shape
+ id="_x0000_s1047" type="#_x0000_t75" style='width:204.75pt;height:153pt'>
+ <v:imagedata src="Stranded%20II.files/image003.png" o:title="ASD"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=273 height=204
+src="Stranded%20II.files/image004.jpg" v:shapes="_x0000_s1047"><![endif]></span>　<p>
+		<font color="#00FF00">The treasure iland!</font></p>
+　<p><!--[if gte vml 1]><v:line
+ id="_x0000_s1043" alt="" style='position:absolute;left:0;text-align:left;
+ top:0;z-index:1' from="602.25pt,1997.25pt" to="705pt,1997.25pt" strokecolor="lime">
+ <v:stroke endarrow="block"/>
+</v:line><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+absolute;z-index:1;left:802px;top:2657px;width:140px;height:12px'><img
+width=140 height=12 src="Stranded%20II.files/image005.gif" v:shapes="_x0000_s1043"></span><![endif]></p>
+		<p>　</p>
+		<p><font color="#00FF00">30000 grams can be carried by my </font></p>
+		<p><font color="#00FF00">little monkeys without paying</font></p>
+		<p><font color="#00FF00">after &quot;paying&quot;15 bananas!!</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# items_weapons.inf<br>
+		#<br>
+		#28 Matchet<br>
+		#29 Bullet<br>
+		#51 Slingshot<br>
+		#52 Spear<br>
+		#53 Arrow<br>
+		#54 Wooden Arrow<br>
+		#55 Poison Arrow<br>
+		#56 Fire Arrow<br>
+		#58 Pistol<br>
+		#59 Bow<br>
+		#60 Longbow<br>
+		#61 Goldbow<br>
+		#62 Bolt<br>
+		#63 Ironbolt</font>　<p>
+		<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman"><!--[if gte vml 1]><v:shape
+ id="_x0000_s1046" type="#_x0000_t75" style='width:204pt;height:153pt'>
+ <v:imagedata src="Stranded%20II.files/image006.png" o:title="未命名DS"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=272 height=204
+src="Stranded%20II.files/image007.jpg" v:shapes="_x0000_s1046"><![endif]></span></p>
+		<p>
+		<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman"><!--[if gte vml 1]><v:shape
+ id="_x0000_s1045" type="#_x0000_t75" style='width:203.25pt;height:152.25pt'>
+ <v:imagedata src="Stranded%20II.files/image008.png" o:title="未命名D"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=271 height=203
+src="Stranded%20II.files/image009.jpg" v:shapes="_x0000_s1045"><![endif]></span></td>
+	</tr>
+</table>
+<p align="left">　</p>
+<table border="1" width="100%" id="table3" bordercolordark="#00FF00" bordercolorlight="#00FF00">
+	<tr>
+		<td colspan="6">
+		<p align="center"><font color="#00FF00">########################<br>
+		##### Combinations #####<br>
+		########################</font></td>
+	</tr>
+	<tr>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_ammo.inf<br>
+		#<br>
+		#54 Wooden Arrows (Branch + Feather)<br>
+		#53 Arrows (Branch + Feather + Pebbles)<br>
+		#62 Bolts (Branch + Matchet)<br>
+		#62 Bolts (bendable Branch + Matchet)<br>
+		#62 Bolts (Bamboo + Matchet)<br>
+		#63 Iron Bolts (Iron Bar + Hammer)<br>
+		#55 Poison Arrows (Branch + Feather + Poison)<br>
+		#56 Fire Arrows (Branch + Feather + Wool)</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_basic.inf<br>
+		#<br>
+		#25 Bendable Branch (Branch + Water)<br>
+		#43 Flour (Grain + Stone)<br>
+		#82 Paste (Flour + Water)<br>
+		#86 Iron Bar (Iron + Hammer)<br>
+		#91 Joint (Hempleaf + Leaf)<br>
+		#37 Poison (toxic Fungus + Stone)<br>
+		#68 Cacao (Cacaofruit + Stone)<br>
+		#24 Branch (Trunk + Matchet)<br>
+		#24 Branch (Trunk + Axe)<br>
+		#21 Pebbles (Stone + Hammer)<br>
+		#115 chocolate paste (Paste + Cacao)</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_potions.inf<br>
+		#<br>
+		#36 Healthpotion (Strong Healherb + Water + Stone)<br>
+		#36 HealthPotion (Healherb + Water + Stone)<br>
+		#36 HealthPotion (Goldherb + Water + Stone)<br>
+		#37 Poison (Bitterroot + Fungus + Water + Stone)<br>
+		#39 Wine (Grapes + Stone)<br>
+		#47 Juice (Berries + Stone)<br>
+		#38 Water (Leaf + Stone)<br>
+		#112 Speedpotion (Cacaofruit + Coffee Fruits + Stone)</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_tools.inf<br>
+		#<br>
+		#30 Hammer (Stone + Branch)<br>
+		#50 Fishing Rod (Bendable Branch + Cord)<br>
+		#84 Axe (Branch + Iron + Hammer)<br>
+		#84 Spade (Branch + Iron + Hammer)<br>
+		#88 Pickaxe (Branch + Ironbar + Hammer)<br>
+		#97 Tent (Skin + Branch)<br>
+		#104 Net (Cord + Branch)<br>
+		#105 Scythe (Branch + Ironbar + Hammer)<br>
+		#&lt;make fire&gt; (Bark + Branch)<br>
+		#&lt;splint&gt; (Branch + Liana)<br>
+		#&lt;bind&gt; (Leaf + Liana)<br>
+		#&lt;bind&gt; (Skin + Liana)</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_weapons.inf<br>
+		#<br>
+		#52 Spear (Stone + Branch)<br>
+		#59 Bow (Bendable Branch + Cord)<br>
+		#51 Slingshot (Branch + Liana)<br>
+		#61 Goldbow (Goldnugget + Cord + Hammer)<br>
+		#60 Longbow (Bendable Branch + Cord + Matchet)<br>
+		#28 Matchet (Branch + Iron + Hammer)<br>
+		#64 Arbalest (Branch + Ironbar + Cord + Ironbolt + Hammer)<br>
+		#120 Clawspear (Claw + Branch)</font></td>
+		<td valign="top"><font color="#00FF00">#<br>
+		################# combinations_stuff.inf<br>
+		#<br>
+		#78 Wilson (Volleyball + Branch)</font><p>
+		<span lang="EN-US" style="font-size: 10.5pt; font-family: Times New Roman"><!--[if gte vml 1]><v:shape
+ id="_x0000_s1044" type="#_x0000_t75" style='width:188.25pt;height:141pt'>
+ <v:imagedata src="Stranded%20II.files/image010.png" o:title="未命名AS"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=251 height=188
+src="Stranded%20II.files/image011.jpg" v:shapes="_x0000_s1044"><![endif]></span></p>
+		<p><font color="#00FF00">Here are some items in my</font></p>
+		<p><font color="#00FF00">Rucksack.</font></td>
+	</tr>
+</table>
+<p align="left"><font color="#00FF00"><br>
+There remain states not being listed.</font></p>
+<p align="left">　</p>
+<p align="left">　</p>
+<p align="center">　</p>
+　
+
+</body>
+
+</html>

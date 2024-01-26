@@ -4,22 +4,22 @@
 Personal website of 16-year-old little Xie  
 (computer course assignment; seems to have been done using DreamWeaver)
 
-<!-- #### Software Architecture
+<!-- ## Software Architecture
 Software architecture description
 
-#### Installation
+## Installation
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### Instructions
+## Instructions
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### Contribution
+## Contribution
 
 1.  Fork the repository
 2.  Create Feat_xxx branch
@@ -27,7 +27,7 @@ Software architecture description
 4.  Create Pull Request
 
 
-#### Gitee Feature
+## Gitee Feature
 
 1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
 2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)

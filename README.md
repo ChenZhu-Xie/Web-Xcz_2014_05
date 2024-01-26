@@ -1,7 +1,7 @@
 # Personal website of 16-year-old Chen-Zhu Xie
 
 ## Description
-Personal website of 16-year-old little Xie \n
+Personal website of 16-year-old little Xie  
 (computer course assignment; seems to have been done using DreamWeaver)
 
 <!-- #### Software Architecture

@@ -1,8 +1,16 @@
 # Personal website of 16-year-old Chen-Zhu Xie
 
-## Description
+<!-- ## Description -->
+## About
 Personal website of 16-year-old little Xie  
-(computer course assignment; seems to have been done using DreamWeaver)
+—— computer course assignment; seems to have been done using **DreamWeaver**.
+
+## Inplementation
+1. Enter Homepage from "Homepage (My Mini Website Portal). lnk".  
+2. Explore freely until you obtain a password and enter the hidden webpage.
+
+PS: Due to its age, page music may not be playable,  
+    and the background image size cannot adapt to the browser window size.
 
 <!-- ## Software Architecture
 Software architecture description

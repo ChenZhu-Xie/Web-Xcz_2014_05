@@ -5,7 +5,7 @@
 <!-- ## Description -->
 ## About
 Personal website of 16-year-old little Xie  
-* computer course assignment; seems to have been done using **DreamWeaver**.
+* computer course assignment; seems to have been done using **FrontPage**.
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  

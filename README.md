@@ -5,7 +5,7 @@
 <!-- ## Description -->
 ## About
 Personal website of 16-year-old little Xie (using **FrontPage**)
-* computer course assignment.
+* Computer course assignment during high school.
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  

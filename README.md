@@ -9,7 +9,7 @@ Personal website of 16-year-old little Xie
 1. Enter Homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely until you obtain a password and enter the hidden webpage.
 
-PS: Due to its age, page music may not be playable,  
+PS: Due to its age (2014_05), page music may not be playable,  
 * and the background image size cannot adapt to the browser window size.
 
 <!-- ## Software Architecture

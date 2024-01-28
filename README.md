@@ -1,4 +1,4 @@
-# Personal website (Crack login password to enter hidden page)
+# Personal website (Crack password to log in Xanadu)
 
 <!-- ## Description -->
 ## About
@@ -6,8 +6,8 @@ Personal website of 16-year-old little Xie
 * computer course assignment; seems to have been done using **DreamWeaver**.
 
 ## Inplementation
-1. Enter Homepage from "Homepage (My Mini Website Portal). lnk".  
-2. Explore freely until you decrypt the password and enter the hidden webpage.
+1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
+2. Explore freely until you decrypt the password and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 
 3. PS: Due to its age (2014_05), page music may not be playable,  

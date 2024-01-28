@@ -1,3 +1,5 @@
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline-web-pages_16-year-old_Xcz/master/img/index.png)
+
 # Personal website (Crack password :point_right: log in Xanadu)
 
 <!-- ## Description -->

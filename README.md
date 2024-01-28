@@ -10,8 +10,8 @@ Personal website of 16-year-old little Xie
 2. Explore freely until you decrypt the password and enter the hidden webpage.
     * Solve the riddle! Or you'll be stuck here in the middle of nowhere forever!
 
-PS: Due to its age (2014_05), page music may not be playable,  
-* and the background image size cannot adapt to the browser window size.
+3. PS: Due to its age (2014_05), page music may not be playable,  
+    * and the background image size cannot adapt to the browser window size.
 
 <!-- ## Software Architecture
 Software architecture description

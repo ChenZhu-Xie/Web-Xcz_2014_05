@@ -1,4 +1,4 @@
-# Personal website (Crack password to log in Xanadu)
+# Personal website (Crack password :point_right: log in Xanadu)
 
 <!-- ## Description -->
 ## About
@@ -7,7 +7,7 @@ Personal website of 16-year-old little Xie
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
-2. Explore freely until you decrypt the password and unlock the hidden webpages.
+2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 
 3. PS: Due to its age (2014_05), page music may not be playable,  

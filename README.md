@@ -1,4 +1,4 @@
-# Personal website of 16-year-old Chen-Zhu Xie
+# Personal website (Unlock login password to enter hidden page)
 
 <!-- ## Description -->
 ## About

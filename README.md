@@ -8,7 +8,7 @@ Personal website of 16-year-old little Xie
 ## Inplementation
 1. Enter Homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely until you decrypt the password and enter the hidden webpage.
-    * Solve the riddle! Or you'll be stuck here in the middle of nowhere forever!
+    * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
 
 3. PS: Due to its age (2014_05), page music may not be playable,  
     * and the background image size cannot adapt to the browser window size.

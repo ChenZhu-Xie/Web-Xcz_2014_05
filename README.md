@@ -4,7 +4,7 @@
 
 <!-- ## Description -->
 ## About
-Personal website of 16-year-old little Xie (using **FrontPage**)
+Personal website of 16-year-old little Xie (using **FrontPage**, 2014)
 * Computer course assignment during high school.
 
 ## Inplementation

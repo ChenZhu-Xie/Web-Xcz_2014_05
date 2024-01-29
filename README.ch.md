@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline-web-pages_16-year-old_Xcz/master/img/index.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png)
 
 # 个人网站 (解谜密码 :point_right: 登陆 世外桃源)
 

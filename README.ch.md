@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『主入口』页面")
 
 # 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
 
@@ -7,7 +7,7 @@
 * 高中时期 的 微机课 大作业：静态 个人网页。
 * 用 **FrontPage** 做的。
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『隐藏入口 / 传送门』页面")
 
 ## 实施
 1. 从 “主页（我的小网站入口）.lnk” 进入 Home。  

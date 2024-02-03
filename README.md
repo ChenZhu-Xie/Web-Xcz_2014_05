@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
 
 # Static personal webpage (Crack password :point_right: log in Xanadu)
 
@@ -7,7 +7,7 @@
 * Computer course assignment during high school: Static personal webpage.
 * Old technology stack: **FrontPage**.
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  

@@ -1,18 +1,25 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png)
 
-# 个人网站 (解谜密码 :point_right: 登陆 世外桃源)
+# 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
 
+<!-- ## 关于 -->
 ## 介绍
-16 岁小谢 搭的 个人网站 (2014 年，用 **FrontPage** 做的)
-* 高中时期 的 微机课 大作业。
+* 高中时期 的 微机课 大作业：静态 个人网页。
+* 用 **FrontPage** 做的。
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png)
 
 ## 实施
 1. 从 “主页（我的小网站入口）.lnk” 进入 Home。  
 2. 自由探索 :point_right: 直到获得密码 :point_right: 进入隐藏网页。
     * 解开谜题！否则你将永远困在：这片虚无之地！
-
 3. PS: 由于年代久远 (2014_05)，页面音乐可能无法播放，  
     * 且背景图片尺寸无法自适应浏览器窗口大小。
+
+## 历史
+* 该项目（个人网页）
+    * 由 16 岁小谢
+    * 在 2014 年 的 高中时期 搭的
 
 <!-- ## 软件架构
 软件架构说明

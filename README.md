@@ -1,19 +1,25 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png)
 
-# Personal website (Crack password :point_right: log in Xanadu)
+# Static personal webpage (Crack password :point_right: log in Xanadu)
 
-<!-- ## Description -->
-## About
-Personal website of 16-year-old little Xie (using **FrontPage**, 2014)
-* Computer course assignment during high school.
+<!-- ## About -->
+## Description
+* Computer course assignment during high school: Static personal webpage.
+* Old technology stack: **FrontPage**.
+
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png)
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
 2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
     * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
-
 3. PS: Due to its age (2014_05), page music may not be playable,  
     * and the background image size cannot adapt to the browser window size.
+
+## History
+* this personal webpage was built
+    * by 16-year-old little Xie
+    * during high school (2014)
 
 <!-- ## Software Architecture
 Software architecture description

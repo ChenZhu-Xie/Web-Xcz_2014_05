@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
 
-# Static personal webpage (Crack password :point_right: log in Xanadu)
+# Static webpages (Crack password :point_right: log in Xanadu)
 
 <!-- ## About -->
 ## Description

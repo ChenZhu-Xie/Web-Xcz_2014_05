@@ -2,10 +2,14 @@
 
 # Static webpages (Crack password :point_right: log in Xanadu)
 
-<!-- ## About -->
+## About
+* This repo 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a series of static personal webpages I created at the age of 16.
+
 ## Description
-* Computer course assignment during high school: Static personal webpage.
+* Computer course assignment during high school.
 * Old technology stack: **FrontPage**.
+    * Limited to the time and technology at that time, the effect may be unsatisfactory
+    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files, space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
 
@@ -17,9 +21,10 @@
     * and the background image size cannot adapt to the browser window size.
 
 ## History
-* this personal webpage was built
-    * by 16-year-old little Xie
-    * during high school (2014)
+* This repo 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) was built
+    * (Personal time) by 16-year-old little Xie
+    * (Personal stage) during high school
+    * (World time) in 2014
 
 <!-- ## Software Architecture
 Software architecture description

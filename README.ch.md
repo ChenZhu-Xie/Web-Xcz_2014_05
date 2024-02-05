@@ -1,13 +1,16 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『主入口』页面") -->
 ![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/index.png "『主入口』页面")
 
-
 # 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
 
-<!-- ## 关于 -->
+## 关于
+* 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B) 是 16 岁的我 做的 静态个人网页（集）
+
 ## 介绍
-* 高中时期 的 微机课 大作业：静态 个人网页。
-* 用 **FrontPage** 做的。
+* 高中时期 的 微机课 大作业
+* 用 **FrontPage** 做的
+    * 限于当时的时间和技术，只能做到该程度，效果上可能差强人意
+    * 但点子上，有双向链接、解谜/密、修改游戏文件、太空探索、精选背景音乐等，『彷徨』与『呐喊』的影子
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『隐藏入口 / 传送门』页面") -->
 ![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/entrance.png "『主入口』页面")
@@ -20,9 +23,10 @@
     * 且背景图片尺寸无法自适应浏览器窗口大小。
 
 ## 历史
-* 该项目（个人网页）
-    * 由 16 岁小谢
-    * 在 2014 年 的 高中时期 搭的
+* 该项目 👉 [脱机个人网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
+    * （个人时间）由 16 岁小谢
+    * （世界时间）在 2014 年 的 
+    * （个人阶段）高中时期 搭建
 
 <!-- ## 软件架构
 软件架构说明

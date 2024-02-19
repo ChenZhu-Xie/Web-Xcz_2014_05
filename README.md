@@ -3,8 +3,8 @@
 # Static webpages (Crack password :point_right: log in Xanadu)
 
 ## About
-* This project 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a series of static personal webpages I created at the age of 16.
-* 中文「自述文档」㊥ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
+* This project 👉 [offline web_pages](https://github.com/ChenZhu-Xie/offline_web_pages) is a series of static personal webpages I created at the age of 16.
+* 中文「自述文档」㊥ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
 
 ## Description
 * Computer course assignment during high school.
@@ -22,7 +22,7 @@
     * and the background image size cannot adapt to the browser window size.
 
 ## History
-* This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) was built
+* This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages) was built
     * (Personal time) by 16-year-old little Xie
     * (Personal stage) during high school
     * (World time) in 2014

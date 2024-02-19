@@ -9,7 +9,7 @@
 * Computer course assignment during high school.
 * Old technology stack: **FrontPage**.
     * Limited to the time and technology at that time, the effect may be unsatisfactory
-    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files, space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
+    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files (e.g. Stranded II, Star Wolves 3), space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
 

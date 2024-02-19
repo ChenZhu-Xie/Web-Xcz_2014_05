@@ -10,7 +10,7 @@
 * 高中时期 的 微机课 大作业
 * 用 **FrontPage** 做的
     * 限于当时的时间和技术，只能做到该程度，效果上可能差强人意
-    * 但点子上，有双向链接、解谜/密、修改游戏文件、太空探索、精选背景音乐等，『彷徨』与『呐喊』的影子
+    * 但点子上，有双向链接、解谜/密、修改游戏文件 (如 Stranded II, Star Wolves 3)、太空探索、精选背景音乐等，『彷徨』与『呐喊』的影子
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『隐藏入口 / 传送门』页面") -->
 ![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/entrance.png "『主入口』页面")

@@ -4,10 +4,13 @@
 # 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
 
 ## 关于
-* 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages) 是 16 岁的我 做的 静态个人网页（集）
+* 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
+    * 扩展自项目 ≺ [脱机网页们](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/1__2.1__offline_web_pages__1.0_year)
+        * 属于生涯 ⊂ [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 * English「README」ⓔ 👉 [offline web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
 
 ## 介绍
+* 16 岁的我 做的 静态个人网页（集）
 * 高中时期 的 微机课 大作业
 * 用 **FrontPage** 做的
     * 限于当时的时间和技术，只能做到该程度，效果上可能差强人意

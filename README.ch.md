@@ -5,6 +5,7 @@
 
 ## 关于
 * 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B) 是 16 岁的我 做的 静态个人网页（集）
+* English「README」ⓔ 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## 介绍
 * 高中时期 的 微机课 大作业

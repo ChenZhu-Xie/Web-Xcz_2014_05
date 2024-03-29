@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/webpage_index.png "『Home/Main entrance』page.html")](https://github.com/ChenZhu-Xie/offline_web_pages/blob/master/%E6%BA%90%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94%E4%BF%AE%E5%A4%8D%E7%89%88(%E5%8F%AA%E4%BF%AE%E5%A4%8D%E4%BA%86%E9%9F%B3%E4%B9%90%EF%BC%9B%E5%9B%BE%E5%BD%A2%E9%94%99%E4%BD%8D%E9%97%AE%E9%A2%98%E8%BF%98%E6%B2%A1%E6%9D%A5%E5%BE%97%E5%8F%8A%E4%BF%AE%E7%90%86)/index.htm "『Home/Main entrance』page.html")
 
 # Static webpages (Crack password :point_right: log in Xanadu)
 
@@ -15,7 +15,7 @@
     * Limited to the time and technology at that time, the effect may be unsatisfactory
     * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files (e.g. Stranded II, Star Wolves 3), space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/webpage_entrance.png "『Portal/Hidden entrance』page.html")](https://github.com/ChenZhu-Xie/offline_web_pages/blob/master/%E6%BA%90%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94%E4%BF%AE%E5%A4%8D%E7%89%88(%E5%8F%AA%E4%BF%AE%E5%A4%8D%E4%BA%86%E9%9F%B3%E4%B9%90%EF%BC%9B%E5%9B%BE%E5%BD%A2%E9%94%99%E4%BD%8D%E9%97%AE%E9%A2%98%E8%BF%98%E6%B2%A1%E6%9D%A5%E5%BE%97%E5%8F%8A%E4%BF%AE%E7%90%86)/new_page_6.htm "『Portal/Hidden entrance』page.html")
 
 ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  

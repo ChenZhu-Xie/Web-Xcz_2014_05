@@ -24,6 +24,8 @@
 3. PS: Due to its age (2014_05), page music may not be playable,  
     * and the background image size cannot adapt to the browser window size.
 
+<!-- d -->
+
 ## History
 * This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages) was built
     * (Personal time) by 16-year-old little Xie
